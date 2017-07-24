@@ -1,0 +1,21 @@
+HTTrack3.49-2 launched on Sat, 22 Jul 2017 16:31:14 at https://pixinvent.com/stack-responsive-bootstrap-4-admin-template/html/ltr/vertical-menu-template/
+(httrack https://pixinvent.com/stack-responsive-bootstrap-4-admin-template/html/ltr/vertical-menu-template/ )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:35:08	Error: 	"Not Found" (404) at link https://pixinvent.com/stack-responsive-bootstrap-4-admin-template/html/ltr/vertical-menu-template/sk-2-columns.html (from https://pixinvent.com/stack-responsive-bootstrap-4-admin-template/html/ltr/vertical-menu-template/)
+16:35:33	Error: 	"Not Found" (404) at link https://pixinvent.com/stack-responsive-bootstrap-4-admin-template/html/ltr/vertical-menu-template/calendars-clndr.html (from https://pixinvent.com/stack-responsive-bootstrap-4-admin-template/html/ltr/vertical-menu-template/layout-2-columns.html)
+16:35:33	Error: 	"Not Found" (404) at link https://pixinvent.com/stack-responsive-bootstrap-4-admin-template/html/ltr/vertical-menu-template/sk-content-detached-left-sidebar.html (from https://pixinvent.com/stack-responsive-bootstrap-4-admin-template/html/ltr/vertical-menu-template/layout-content-detached-left-sidebar.html)
+16:35:33	Error: 	"Not Found" (404) at link https://pixinvent.com/stack-responsive-bootstrap-4-admin-template/html/ltr/vertical-menu-template/vertical-disabled-navigation-link.html (from https://pixinvent.com/stack-responsive-bootstrap-4-admin-template/html/ltr/vertical-menu-template/navbar-styling.html)
+16:35:33	Error: 	"Not Found" (404) at link https://pixinvent.com/stack-responsive-bootstrap-4-admin-template/html/ltr/vertical-menu-template/search-maps.html (from https://pixinvent.com/stack-responsive-bootstrap-4-admin-template/html/ltr/vertical-menu-template/search-page.html)
+16:35:33	Error: 	"Not Found" (404) at link https://pixinvent.com/stack-responsive-bootstrap-4-admin-template/html/ltr/vertical-menu-template/inde.html (from https://pixinvent.com/stack-responsive-bootstrap-4-admin-template/html/ltr/vertical-menu-template/search-images.html)
+16:35:33	Error: 	"Not Found" (404) at link https://pixinvent.com/stack-responsive-bootstrap-4-admin-template/html/ltr/vertical-menu-template/search-advanced.html (from https://pixinvent.com/stack-responsive-bootstrap-4-admin-template/html/ltr/vertical-menu-template/error-400.html)
+16:35:33	Error: 	"Not Found" (404) at link https://pixinvent.com/stack-responsive-bootstrap-4-admin-template/html/ltr/vertical-menu-template/color-red.html (from https://pixinvent.com/stack-responsive-bootstrap-4-admin-template/html/ltr/vertical-menu-template/content-typography.html)
+16:35:33	Error: 	"Not Found" (404) at link https://pixinvent.com/stack-responsive-bootstrap-4-admin-template/html/ltr/vertical-menu-template/colors-primary-palette.html (from https://pixinvent.com/stack-responsive-bootstrap-4-admin-template/html/ltr/vertical-menu-template/table-styling.html)
+16:35:33	Error: 	"Not Found" (404) at link https://pixinvent.com/stack-responsive-bootstrap-4-admin-template/html/ltr/vertical-menu-template/map_events.html (from https://pixinvent.com/stack-responsive-bootstrap-4-admin-template/html/ltr/vertical-menu-template/gmaps-utils.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 4 minutes 19 seconds : 233 links scanned, 222 files written (28183520 bytes overall) [3138415 bytes received at 12117 bytes/sec], 28670709 bytes transferred using HTTP compression in 232 files, ratio 10%, 10.1 requests per connection
+(10 errors, 0 warnings, 0 messages)
